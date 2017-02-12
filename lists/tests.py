@@ -1,7 +1,8 @@
 from django.test import TestCase
 from django.core.urlresolvers import resolve
-from lists.views import home_page # home_page is a view function we will write and it will return a HTML
+from django.template.loader import render_to_string
 from django.http import HttpRequest
+from lists.views import home_page # home_page is a view function we will write and it will return a HTML
 
 # Create your tests here.
 
@@ -14,6 +15,10 @@ class HomePageTest(TestCase):
     def test_home_page_returns_correct_html(self):
         request = HttpRequest() # create an HttpRequest object, which is what Django will see when a user’s browser asks for a page.
         response = home_page(request)
-        self.assertTrue(response.content.startswith(b'<html>'))
-        self.assertTrue(response.content.endswith(b'</html>'))
-        self.assertIn(b'<title>To-Do lists</title>', response.content)
+        expected_html = render_to_string('home.html')
+        self.assertEqual(response.content.decode(), expected_html)
+        # Don't test constant
+        #self.assertTrue(response.content.startswith(b'<html>'))
+        #self.assertTrue(response.content.strip().endswith(b'</html>'))
+        #self.assertIn(b'<title>To-Do lists</title>', response.content)
+
