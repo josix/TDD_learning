@@ -90,3 +90,118 @@
 [warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
 [Child 23649] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
 [Child 23649] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1486898687603	geckodriver	INFO	Listening on 127.0.0.1:53194
+1486898688614	mozprofile::profile	INFO	Using profile path /var/folders/y3/202szvq95sz9qmzzzp60bkw80000gn/T/rust_mozprofile.szhyuHzvASuD
+1486898688615	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486898688618	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53207
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486898689253	Marionette	INFO	Listening on port 53207
+1486898690528	Marionette	INFO	startBrowser b1f6f09a-7274-844d-9bc8-5f43a57a7508
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 26872] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+[Child 26872] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1486920033586	geckodriver	INFO	Listening on 127.0.0.1:50205
+1486920034586	mozprofile::profile	INFO	Using profile path /var/folders/y3/202szvq95sz9qmzzzp60bkw80000gn/T/rust_mozprofile.xwPjEZTpnwhW
+1486920034587	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486920034607	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50218
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486920035396	Marionette	INFO	Listening on port 50218
+1486920036717	Marionette	INFO	startBrowser 1b30a274-0992-1e45-9363-c6c6cc8abd8a
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 2018] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+[Child 2018] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1486922486477	geckodriver	INFO	Listening on 127.0.0.1:50872
+1486922487487	mozprofile::profile	INFO	Using profile path /var/folders/y3/202szvq95sz9qmzzzp60bkw80000gn/T/rust_mozprofile.vC1pogaHVABu
+1486922487488	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486922487490	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50885
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486922488062	Marionette	INFO	Listening on port 50885
+1486922489310	Marionette	INFO	startBrowser dfef432a-470d-6b4b-b1c6-805dc6195468
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 2074] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+[Child 2074] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1486922537414	geckodriver	INFO	Listening on 127.0.0.1:50933
+1486922538425	mozprofile::profile	INFO	Using profile path /var/folders/y3/202szvq95sz9qmzzzp60bkw80000gn/T/rust_mozprofile.mDS4ZangSGpO
+1486922538426	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486922538428	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50946
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486922538984	Marionette	INFO	Listening on port 50946
+1486922540206	Marionette	INFO	startBrowser bc8e86a1-dce3-b84b-9a4c-5723ad28984d
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 2092] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+[Child 2092] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1486922665143	geckodriver	INFO	Listening on 127.0.0.1:51141
+1486922666149	mozprofile::profile	INFO	Using profile path /var/folders/y3/202szvq95sz9qmzzzp60bkw80000gn/T/rust_mozprofile.ylcr38N5Ms4u
+1486922666149	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486922666151	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51154
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486922666706	Marionette	INFO	Listening on port 51154
+1486922667912	Marionette	INFO	startBrowser c2a2b92f-f8ba-a74f-81bb-0e6e9135b3de
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2113] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 677
+[Child 2113] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 677
+[Child 2113] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+[Child 2113] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1486922776866	geckodriver	INFO	Listening on 127.0.0.1:51194
+1486922777873	mozprofile::profile	INFO	Using profile path /var/folders/y3/202szvq95sz9qmzzzp60bkw80000gn/T/rust_mozprofile.phRf0s55Fcrf
+1486922777874	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486922777876	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51207
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486922778429	Marionette	INFO	Listening on port 51207
+1486922779629	Marionette	INFO	startBrowser b58b4374-7e18-1349-ba9c-fe4b9048d3f0
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2151] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+[Child 2151] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1486922805151	geckodriver	INFO	Listening on 127.0.0.1:51246
+1486922806158	mozprofile::profile	INFO	Using profile path /var/folders/y3/202szvq95sz9qmzzzp60bkw80000gn/T/rust_mozprofile.90iuiKsIqHi1
+1486922806159	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486922806161	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51259
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486922806710	Marionette	INFO	Listening on port 51259
+1486922807790	Marionette	INFO	startBrowser 60dbf9e7-bde6-184b-b967-4f46f822e009
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2169] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+[Child 2169] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1486922915546	geckodriver	INFO	Listening on 127.0.0.1:51300
+1486922916555	mozprofile::profile	INFO	Using profile path /var/folders/y3/202szvq95sz9qmzzzp60bkw80000gn/T/rust_mozprofile.Gd6GVLeBi1Be
+1486922916556	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486922916558	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51313
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486922917106	Marionette	INFO	Listening on port 51313
+1486922918316	Marionette	INFO	startBrowser 0d0a1029-c1b0-f74f-983d-b3c9603d9104
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 2206] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+[Child 2206] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1486922993120	geckodriver	INFO	Listening on 127.0.0.1:51369
+1486922994130	mozprofile::profile	INFO	Using profile path /var/folders/y3/202szvq95sz9qmzzzp60bkw80000gn/T/rust_mozprofile.Uq5r5gnExqFs
+1486922994131	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486922994132	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51382
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486922994685	Marionette	INFO	Listening on port 51382
+1486922995901	Marionette	INFO	startBrowser eab9f9e7-5cb6-d14c-92b7-ff6eaa927b73
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 2224] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+[Child 2224] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1486923046692	geckodriver	INFO	Listening on 127.0.0.1:51430
+1486923047703	mozprofile::profile	INFO	Using profile path /var/folders/y3/202szvq95sz9qmzzzp60bkw80000gn/T/rust_mozprofile.NguTySuQPolm
+1486923047704	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486923047706	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51443
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486923048262	Marionette	INFO	Listening on port 51443
+1486923049460	Marionette	INFO	startBrowser 92f26250-0656-a744-9b33-30dd2c5ef9f3
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 2242] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+[Child 2242] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1486923234179	geckodriver	INFO	Listening on 127.0.0.1:51501
+1486923235190	mozprofile::profile	INFO	Using profile path /var/folders/y3/202szvq95sz9qmzzzp60bkw80000gn/T/rust_mozprofile.atL7MB2BOhoz
+1486923235191	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486923235193	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51514
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486923235745	Marionette	INFO	Listening on port 51514
+1486923236950	Marionette	INFO	startBrowser b72fccc2-1319-fa47-b7c4-8c3b867d8f2b
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 2271] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+[Child 2271] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
